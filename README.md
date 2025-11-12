@@ -8,6 +8,7 @@ Focus: Vaccine Adverse Event Reporting System (VAERS)
 The project aims to identify potential adverse effects post-vaccination using real-world VAERS data. The task involves comprehensive data cleaning, transformation, and predictive modeling to classify and analyze the nature of adverse events.
 
 🗂️ Data Preprocessing and Cleaning
+
  Data Merging & Deduplication
 
 Merged multiple VAERS datasets.
@@ -24,7 +25,7 @@ Estimated missing NUMDAYS values using VAX_DATE and ONSET_DATE.
 
 Created new feature AGE_GROUP by bucketing AGE_YRS.
 
-Feature Engineering
+Feature Engineering 
 
 Generated meaningful derived variables to improve model performance.
 
